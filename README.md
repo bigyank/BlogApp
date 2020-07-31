@@ -32,8 +32,9 @@ Tested With:
 ## Preview
 
 > main app
->
-> ![main app](https://i.imgur.com/548Oxzi.png)
+
+![main app](https://i.imgur.com/548Oxzi.png)
+
 > blog preview
 
 ![blog detail](https://i.imgur.com/ODfG93z.png)
